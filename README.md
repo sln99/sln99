@@ -1,9 +1,11 @@
 Hi there 👋
 ---
-####I am passionate about policy research 🌍, data analysis 📈, and space governance 🚀. I have professional experience in journalism 📰, quantitative and qualitative research 🧠.
----
+I am passionate about policy research 🌍, data analysis 📈, and space governance 🚀. I have professional experience in journalism 📰, quantitative and qualitative research 🧠.
+
+
 <!--
 **sln99/sln99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
