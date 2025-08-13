@@ -1,5 +1,5 @@
 ---
-#Hi there 👋
+Hi there 👋
 ---
 I am passionate about policy research 🌍, data analysis 📈, and space governance 🚀. I have professional experience in journalism 📰, quantitative and qualitative research 🧠.
 ---
